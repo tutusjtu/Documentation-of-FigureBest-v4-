@@ -1,5 +1,5 @@
 # FigureBest v4 帮助文档 Documentation of FigureBest v4
-
+![](images/FBV4-公众号封面图.png)
 
 ## 1. 简介 Brief introduction
 
