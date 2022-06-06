@@ -3,6 +3,17 @@
 
 ## 1. 简介 Brief introduction
 
+FigureBest（简称:FB）是基于MATLAB开发的SCI数据图自动美化软件。
+
+[开发者](https://space.bilibili.com/223755925)
+[开发教程](https://www.bilibili.com/video/BV1R3411x7ZU)
+[使用技巧](https://www.bilibili.com/video/BV1tZ4y167jn)
+[4.0](https://www.bilibili.com/video/BV1Fh411S7cM)
+[4.1](https://www.bilibili.com/video/BV1i64y1o7Fo)
+[4.2](https://www.bilibili.com/video/BV1vb4y1r7d5)
+[4.3](https://www.bilibili.com/video/BV17L4y1x78W)
+
+
 ## 2. 常见问题 General questions
 
 ### 安装步骤、环境及可能导致您无法启动的注意事项
