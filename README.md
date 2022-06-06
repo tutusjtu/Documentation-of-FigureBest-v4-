@@ -28,6 +28,19 @@
 
 ![](images/chaoOfChinese-2.png)
 
+### 公式输入出现美元符号或者没有了上下标样式？
+
+FB美化时会自动采用**latex**解释器而非**tex**解释器，它们的差别请查看MATLAB官方的帮助文档[Interpreter](https://ww2.mathworks.cn/help/releases/R2019b/matlab/ref/matlab.graphics.shape.textbox-properties.html?#prop_Interpreter)，在这里简单示范一下，帮助已经了解latex语法的朋友快速上手FB。
+
+- 在latex样式下，需要美元符号申明环境;且latex语法会覆盖MATLAB命令，表现为字体需要用latex语法设置;且latex样式下下不支持中文;
+![](images/latex-1.png)
+![](images/latex-2.png)
+
+- 在tex样式下，中英文可以混用，但不能有美元符号；
+
+![](images/tex-1.png)
+
+
 ### 3. 功能3
 
 ### 4. 功能4
