@@ -41,6 +41,8 @@ FB美化时会自动采用**latex**解释器而非**tex**解释器，它们的�
 
 - 在tex样式下，中英文可以混用，但不能有美元符号；
 
+这里图图提供一个在线的latex转换网站，[latexlive](https://www.latexlive.com/##)。
+
 ![](images/tex-1.png)
 
 ### 3. 功能3
