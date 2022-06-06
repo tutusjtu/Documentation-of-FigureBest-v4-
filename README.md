@@ -3,7 +3,7 @@
 
 ## 1. 简介 Brief introduction
 
-## 2. 常见问题
+## 2. 常见问题 General questions
 
 ### 如何对Simulink模块的图进行美化？
 
