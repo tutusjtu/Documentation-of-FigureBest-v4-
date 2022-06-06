@@ -24,9 +24,9 @@
 
 美化是针对SCI英文环境的图，所以美化的时候无论用户设置什么字体，都会修改为**Times**字体，一般来讲这是高效且直接的。如果原来有中文字体，中文字体与Times不兼容，会发生冲突，变成方块或者乱码，只要点击**中文**按钮，或者自己修改成中文字体即可恢复。（注意：MATLAB一个文字框只能包含一种字体，既有英文的Times又有中文是做不到的）
 
-![](chaoOfChinese-1.png)
+![](images/chaoOfChinese-1.png)
 
-![](chaoOfChinese-2.png)
+![](images/chaoOfChinese-2.png)
 
 ### 3. 功能3
 
